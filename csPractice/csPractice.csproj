@@ -43,6 +43,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="ExecuteRectangle.cs" />
     <Compile Include="HelloWorld.cs" />
     <Compile Include="IntergralType.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
