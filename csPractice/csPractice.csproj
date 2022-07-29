@@ -43,6 +43,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="DeathNote2.cs" />
     <Compile Include="ExecuteRectangle.cs" />
     <Compile Include="HelloWorld.cs" />
     <Compile Include="IntergralType.cs" />
